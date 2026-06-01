@@ -83,17 +83,13 @@ https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_califor
 
 # Repository Structure
 
+# Repository Structure
+
 ```bash
 Machine-Learning-Projects/
 │
-├── MNIST_Digit_Classifier/
-│   ├── mnist_digit_classifier.ipynb
-│   ├── README.md
-│
-├── Housing_Price_Prediction/
-│   ├── housing_price_prediction.ipynb
-│   ├── README.md
-│
+├── Digit_Classification_on_(Andrew_Ng).ipynb
+├── House_Price_Prediction_(Stanford_Andrew_Ng).ipynb
 └── README.md
 ```
 
